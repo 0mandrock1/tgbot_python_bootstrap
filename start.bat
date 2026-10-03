@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul
 REM Запуск бота на Windows. Просто двічі клікни на цей файл.
 
 cd /d "%~dp0"
